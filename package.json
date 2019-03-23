@@ -1,5 +1,5 @@
 {
-    "name": "@autobot/command-karma-system",
+    "name": "@autobot/module-karma-system",
     "version": "1.0.2",
     "description": "",
     "main": "dist/index",
